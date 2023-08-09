@@ -68,8 +68,7 @@ git commit -m "[PGS]문자열출력하기/01/이종호"
   * [PGS] - 프로그래머스
   * [BOJ] - 백준 
   * [ETC] - 그외
-- 터미널에서 git push origin dev 명령어로 dev branch에 자신의 작업물을 push 해줍니다.
-- 제발제발 dev에다가 push 해야합니다.
+- 터미널에서 git push origin main 명령어 사용
 <br />
 <br />
 
