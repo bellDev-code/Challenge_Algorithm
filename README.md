@@ -26,7 +26,7 @@ git clone "https://github.com/bellDev-code/Challenge_Algorithm.git"
 2. 자신의 visual Studio code의 터미널 (ctrl + ~)을 열어 자신이 원하는 디렉토리에 복사한 url을 붙여넣는다.
 3. 아무런 에러 메세지가 없을 시, 밑의 명령어를 친다.
 ```
-git pull origin master
+git pull origin main
 ```
 4. 왜 pull을 먼저하나요?
    - Challenge_Algorithm 레포지토리는 혼자만 사용하는 것이 아닌 스터디분들의 저장소입니다.
@@ -59,11 +59,11 @@ programmers
 ## ✅ commit 규칙
 - commit 메세지: [문제 출처(플랫폼)]문제이름/ 문제번호 / 한글이름
 - description: 문제 주소 (option)
-- 터미널에서 명령어 작성법: 
+- 터미널에서 명령어 작성법
 ```
 git commit -m "[PGS]문자열출력하기/01/이종호"
 ```
-- 또는 visual studio code 왼쪽 상단의 Source Control에서 commit할 수 있습니다. 
+- 또는 visual studio code 왼쪽 상단의 Source Control에서 commit 할 수 있습니다. 위의 형태로 부탁드립니다.
 - 플랫폼 작성법 통일:
   * [PGS] - 프로그래머스
   * [BOJ] - 백준 
