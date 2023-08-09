@@ -80,19 +80,22 @@ programmers
 ```
 git commit -m "[PGS]문자열출력하기/01/이종호"
 ```
+- 또는 visual studio code 왼쪽 상단의 Source Control에서 commit할 수 있습니다. 
 - 플랫폼 작성법 통일:
   * [PGS] - 프로그래머스
   * [BOJ] - 백준 
   * [ETC] - 그외
-
+- 터미널에서 git push origin dev 명령어로 dev branch에 자신의 작업물을 push 해줍니다.
+- 제발제발 dev에다가 push 해야합니다.
 <br />
 <br />
 
 ## ✅ PR 규칙
+- commit 후 challenge_Algorithm의 상단 보시면 pull resquests 눌러줍니다.
+- new pull request 생성 버튼 클릭
 - PR 제목: 이름 / 문제이름 / 문제번호
--  ```leejongho / 문자열 출력하기 / 01 ```
--  comment는 자유입니다. 이번주에 풀었던 문제의 알고리즘 분류가 어떻게 되는지, <br> 어떤 문제가 어려웠는지 회고를 작성한다면 개인에게도 도움되고 다른 코드 리뷰어가 참고하기 좋습니다.
-
+- ```leejongho / 문자열 출력하기 / 01 ```
+- comment는 자유입니다. 이번주에 풀었던 문제의 알고리즘 분류가 어떻게 되는지, <br> 어떤 문제가 어려웠는지 회고를 작성한다면 개인에게도 도움되고 다른 코드 리뷰어가 참고하기 좋습니다.
 
 <br />
 <br />
