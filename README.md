@@ -18,7 +18,6 @@ ex) git version 2.40.1
 ```
 3. 위의 커맨드가 나온다면 컴퓨터에 git이 다운로드 되었다는 뜻입니다.
 
-
 ## ✅ 시작 방법
 1. 밑의 url를 복사한다. (https 형태로 clone)
 ```
@@ -33,6 +32,23 @@ git pull origin master
    - Challenge_Algorithm 레포지토리는 혼자만 사용하는 것이 아닌 스터디분들의 저장소입니다.
    - 스터디원들의 commit의 출동을 예방합니다. (협업 프로젝트 간접 경험 가능)
    - 항상 시작 전 git pull 하는 습관을 들입시다.
+
+## ✅ git branch 생성
+1. 터미널에서 git branch -a
+```
+* main
+```
+2. 위의 형태로 확인이 되실텐데요 *의 뜻은 현재 여러분이 사용중인 branch 위치입니다.
+3. main branch에서 작업하지 않습니다.
+4. 브랜치 생성하는 방법
+```
+git branch dev
+```
+5. 여러분이 작업해야할 branch는 dev입니다.
+6. branch 이동 방법
+```
+git checkout dev
+```
 
 <br />
 <br />
