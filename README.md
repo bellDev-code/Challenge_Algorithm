@@ -33,23 +33,6 @@ git pull origin master
    - 스터디원들의 commit의 출동을 예방합니다. (협업 프로젝트 간접 경험 가능)
    - 항상 시작 전 git pull 하는 습관을 들입시다.
 
-## ✅ git branch 생성
-1. 터미널에서 git branch -a
-```
-* main
-```
-2. 위의 형태로 확인이 되실텐데요 *의 뜻은 현재 여러분이 사용중인 branch 위치입니다.
-3. main branch에서 작업하지 않습니다.
-4. 브랜치 생성하는 방법
-```
-git branch dev
-```
-5. 여러분이 작업해야할 branch는 dev입니다.
-6. branch 이동 방법
-```
-git checkout dev
-```
-
 <br />
 <br />
 
