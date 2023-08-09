@@ -21,7 +21,7 @@ ex) git version 2.40.1
 ## ✅ 시작 방법
 1. 밑의 url를 복사한다. (https 형태로 clone)
 ```
-git clone origin "https://github.com/bellDev-code/Challenge_Algorithm.git"
+git clone "https://github.com/bellDev-code/Challenge_Algorithm.git"
 ```
 2. 자신의 visual Studio code의 터미널 (ctrl + ~)을 열어 자신이 원하는 디렉토리에 복사한 url을 붙여넣는다.
 3. 아무런 에러 메세지가 없을 시, 밑의 명령어를 친다.
