@@ -69,6 +69,19 @@ git commit -m "[PGS]문자열출력하기/01/이종호"
   * [BOJ] - 백준 
   * [ETC] - 그외
 - 터미널에서 git push origin main 명령어 사용
+- git config Error란? 아마도 처음 진행하시는 분은 config 에러가 발생할 수 있습니다. 
+```
+git config --list
+```
+- 위의 명령어를 터미널에서 확인하게 되시면
+- user.name과 user.email을 설정해야합니다.
+```
+git config --global user.name "여러분 닉네임"
+```
+```
+git config --global user.email "여러분 이메일"
+```
+- 위 명령어를 터미널에 입력하시게 되면 깃허브 홈페이지가 나오고 연결하시면 해결됩니다.
 <br />
 <br />
 
