@@ -7,7 +7,6 @@ def solution(num_list):
     while True:
         if arr == num_list:
             return cnt
-            break
 
         if num_list[i] != 1:
             if num_list[i] % 2 == 0:
