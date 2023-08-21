@@ -1,4 +1,4 @@
-# [PGS] 평균 구하기
+# 평균 구하기
 
 def solution(arr):
     answer = 0
