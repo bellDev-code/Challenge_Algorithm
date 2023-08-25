@@ -6,7 +6,6 @@
 '''
 
 import sys
-sys.stdin = open('D:\data\백준\input.txt', 'r')
 input = sys.stdin.readline
 
 for _ in range(int(input())):
